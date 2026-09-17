@@ -1,0 +1,8 @@
+Feature,Middle Class Baseline Drivers,Luxury Class Baseline Drivers
+bedrooms,-0.029400423,-0.016671376
+bathrooms,0.109695421,0.048280474
+sqft_living,0.000109637,0.000123497
+view,0.026591632,0.055623642
+grade,0.184449097,0.100689986
+condition,0.017619092,0.023779158
+yr_built,-0.003906057,-0.002984706
