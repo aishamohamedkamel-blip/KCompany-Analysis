@@ -23,7 +23,7 @@ Real estate investors often apply the same evaluation criteria to all properties
 * Applied Natural Log Transformation (`np.log()`) to the price column to handle skewness and normalize the data distribution for accurate regression modeling.
 
 ### 3. Statistical Analysis (التحليل الإحصائي)
-* Conducted OLS Regression with robust standard errors (`cov_type='HC3'`) to compare feature value drivers by class[cite: 5].
+* Conducted OLS Regression with robust standard errors (`cov_type='HC3'`) to compare feature value drivers by class.
 * Built a Unified Interaction Model evaluating baseline traits (`bedrooms`, `bathrooms`, `sqft_living`, `view`, `grade`, `condition`, `yr_built`) against the `is_luxury` segment.
 
 ### 4. Data Visualization (رسوم البيانات - Power BI)
