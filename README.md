@@ -1,7 +1,7 @@
 # KCompany-Analysis
 
 ## 📌 Project Overview (نظرة عامة على المشروع)
-This project is an End-to-End Data Analytics pipeline focused on analyzing the King County House Sales dataset. The primary goal is to identify the key drivers of house prices and understand how these drivers differ between Middle-Class and Luxury real estate markets. The project integrates **Python** for Data ETL and Statistical Modeling, and **Power BI** for interactive visualization.
+This project is an End-to-End Data Analytics pipeline focused on analyzing the KCompany House Sales dataset. The primary goal is to identify the key drivers of house prices and understand how these drivers differ between Middle-Class and Luxury real estate markets. The project integrates **Python** for Data ETL and Statistical Modeling, and **Power BI** for interactive visualization.
 
 ## 🎯 Business Problem (المشكلة التجارية)
 Real estate investors often apply the same evaluation criteria to all properties. However, this analysis tests the hypothesis that the factors maximizing value for an average home (e.g., square footage, number of rooms) differ significantly from those driving premium prices in the luxury market (e.g., architectural grade, waterfront views).
