@@ -100,7 +100,7 @@ print(interaction_summary.loc[['is_luxury:view', 'is_luxury:grade']])
 compare_drivers.to_csv('Comparing Drivers')
 
 
-KCompanyProperties.to_csv('King Housing Processed Dataset', index = False)
+KCompanyProperties.to_csv('KCompany Housing Processed Dataset', index = False)
 
 
 import seaborn as sns
