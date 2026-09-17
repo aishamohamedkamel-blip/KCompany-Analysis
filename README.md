@@ -1,4 +1,4 @@
-# KCompany-Analysis
+# KCompany-Housing-Analysis
 
 ## 📌 Project Overview (نظرة عامة على المشروع)
 This project is an End-to-End Data Analytics pipeline focused on analyzing the KCompany House Sales dataset. The primary goal is to identify the key drivers of house prices and understand how these drivers differ between Middle-Class and Luxury real estate markets. The project integrates **Python** for Data ETL and Statistical Modeling, and **Power BI** for interactive visualization.
