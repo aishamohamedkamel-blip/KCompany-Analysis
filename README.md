@@ -26,7 +26,7 @@ Real estate investors often apply the same evaluation criteria to all properties
 * Conducted OLS Regression with robust standard errors (`cov_type='HC3'`) to compare feature value drivers by class[cite: 5].
 * Built a Unified Interaction Model evaluating baseline traits (`bedrooms`, `bathrooms`, `sqft_living`, `view`, `grade`, `condition`, `yr_built`) against the `is_luxury` segment.
 
-### 4. Data Visualization (تصور البيانات - Power BI)
+### 4. Data Visualization (رسوم البيانات - Power BI)
 * Created a comprehensive Executive Dashboard displaying overall market KPIs.
 * **Key Metrics Analyzed:** 
   * Total Houses Sold: 21.436K
@@ -34,9 +34,6 @@ Real estate investors often apply the same evaluation criteria to all properties
   * Average Price per Sqft: $263.97
 * Visualized the market segment distribution using Donut Charts (Middle Class: 75.09%, Luxury Class: 24.91%).
 * Designed a Clustered Bar Chart translating the 'Coefficient Comparison Matrix' into a visual format to compare the impact of baseline drivers between the two market classes.
-
-*(صورة لوحة التحكم التفاعلية)*
-![Power BI Dashboard](KCompany_Dashboard.jpg)
 
 ## 💡 Key Insights & Recommendations (أهم النتائج والتوصيات)
 1. **Architectural Grade Impact:** The architectural and structural `grade` has a exponentially higher impact on the pricing of Luxury houses compared to Middle-Class houses.
